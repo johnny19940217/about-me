@@ -1,0 +1,22 @@
+.about-me {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  display: center;
+}
+
+#page {
+  background-color: lightblue;
+  text-align: center;
+}
+
+
+.img-fluid {
+  width: 200px;
+  height: 200px;
+}
+
+.softerware{
+  font-size:20px;
+  color:tomato;
+}
